@@ -1,0 +1,97 @@
+[
+    {
+        "id": 1,
+        "name": "Nave Lightyear LEGO",
+        "value": 185,
+        "imageUrl": "http://d3ugyf2ht6aenh.cloudfront.net/stores/001/753/301/products/17766_a2fe159c-1039-4d3e-98fb-c6f4d20ceff3_1024x1024-983517e78f5c4cc56b16562805446264-640-0.png",
+        "qtd": 1
+    },
+
+    {
+        "id": 2,
+        "name": "R2-D2",
+        "value": 255,
+        "imageUrl": "https://static3.tcdn.com.br/img/img_prod/460977/action_figure_artoo_detoo_r2_d2_star_wars_the_black_series_40th_the_empire_strikes_back_hasbro_73106_1_fda84fe6f1e73530a998c17d1c529cb0.jpg",
+        "qtd": 1
+    },
+
+    {
+        "id": 3,
+        "name": "Carrinho Espacial",
+        "value": 130,
+        "imageUrl": "https://cdn.awsli.com.br/600x450/498/498617/produto/177238871a172c9e2f7.jpg",
+        "qtd": 1
+    },
+
+    {
+        "id": 4,
+        "name": "Foguete Infantil",
+        "value": 172,
+        "imageUrl": "https://images-americanas.b2w.io/produtos/3338675339/imagens/brinquedo-para-banho-de-bebe-em-spray-banheira-de-agua-brinquedo-espacial-foguete-chuveiro-brinquedos/3338675371_1_large.jpg",
+        "qtd": 1
+    },
+
+    {
+        "id": 5,
+        "name": "Aliens",
+        "value": 50,
+        "imageUrl": "https://cf.shopee.com.br/file/f2a0ad2fac66650fa7a78985beb50e55",
+        "qtd": 1
+    },
+
+    {
+        "id": 6,
+        "name": "Mestre Yoda",
+        "value": 147,
+        "imageUrl": "https://toyshopping.com.br/wp-content/uploads/2021/09/Figura-de-a-o-em-pvc-da-disney-star-wars-mestre-yoda-modelo-yoda-brinquedos-colecion.jpg_Q90.jpg_-1-600x600.png",
+        "qtd": 1
+    },
+
+    {
+        "id": 7,
+        "name": "Arma de Luz Espacial",
+        "value": 45,
+        "imageUrl": "https://a-static.mlcdn.com.br/800x560/brinquedo-arma-luz-som-missao-espacial-2021-dm-toys/tecnotoy/57815/2e73d1262ab4a5bc9caffcace7824f1f.jpeg",
+        "qtd": 1
+    },
+
+    {
+        "id": 8,
+        "name": "Ônibus Espacial",
+        "value": 100,
+        "imageUrl": "https://imgs.casasbahia.com.br/1526779014/1xg.jpg?imwidth=500",
+        "qtd": 1
+    },
+
+    {
+        "id": 9,
+        "name": "Estação Espacial",
+        "value": 455,
+        "imageUrl": "https://images-americanas.b2w.io/produtos/6307742682/imagens/novo-quebra-cabeca-acousto-optico-brinquedos-espaciais-modelo-espacial-shuttle-estacao-espacial-foguete-serie-aviacao-brinquedo-para-meninos/6307742826_2_xlarge.jpg",
+        "qtd": 1
+    },
+
+    {
+        "id": 10,
+        "name": "Boneco Buzz Lightyear",
+        "value": 260,
+        "imageUrl": "https://rihappy.vtexassets.com/arquivos/ids/2724592-1200-auto?v=637837502157670000&width=1200&height=auto&aspect=true",
+        "qtd": 1
+    },
+
+    {
+        "id": 11,
+        "name": "Estação Espacial LEGO",
+        "value": 248,
+        "imageUrl": "https://static.giulianaflores.com.br/images/product/3556-16LG0053XX-MP_1.jpg?ims=500x500",
+        "qtd": 1
+    },
+
+    {
+        "id": 12,
+        "name": "Nave Espacial",
+        "value": 85,
+        "imageUrl": "https://m.media-amazon.com/images/I/513uUqrkVYL._AC_SX679_.jpg",
+        "qtd": 1
+    }
+]
